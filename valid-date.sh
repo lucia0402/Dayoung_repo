@@ -1,4 +1,4 @@
-echo "Enter the month, day, and year: "
+#!/bin/bash
 
 month="$1"
 day="$2" 
